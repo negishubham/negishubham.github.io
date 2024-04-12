@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "NAX: Neural Architecture and Memristive Xbar based Accelerator Co-design"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is on Neural Network and IMC accelerator architecture co-design.'
+date: 06-20-2022
+venue: 'DAC 2022'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3489517.3530476'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Neural Architecture Search (NAS) has provided the ability to design efficient deep neural network (DNN) catered towards different hardwares like GPUs, CPUs etc. However, integrating NAS with Memristive Crossbar Array (MCA) based In-Memory Computing (IMC) accelerator remains an open problem. The hardware efficiency (energy, latency and area) as well as application accuracy (considering device and circuit non-idealities) of DNNs mapped to such hardware are co-dependent on network parameters such as kernel size, depth etc. and hardware architecture parameters such as crossbar size and the precision of analog-to-digital converters. Co-optimization of both network and hardware parameters presents a challenging search space comprising of different kernel sizes mapped to varying crossbar sizes. To that effect, we propose NAX – an efficient neural architecture search engine that co-designs neural network and IMC based hardware architecture. NAX explores the aforementioned search space to determine kernel and corresponding crossbar sizes for each DNN layer to achieve optimal tradeoffs between hardware efficiency and application accuracy. For CIFAR-10 and Tiny ImageNet, our models achieve 0.9% and 18.57% higher accuracy at 30% and -10.47% lower EDAP (energy-delay-area product), compared to baseline ResNet-20 and ResNet-18 models, respectively.
