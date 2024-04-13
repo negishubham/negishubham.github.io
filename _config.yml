@@ -21,7 +21,7 @@ repository               : "negishubham.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "snegi_headshot.png"
   name             : "Shubham Negi"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in ECE, Purdue University"
