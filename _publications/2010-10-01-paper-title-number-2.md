@@ -3,7 +3,7 @@ title: "HCiM: ADC-Less Hybrid Analog-Digital Compute in Memory Accelerator for D
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper proposes an adcless hyrbid analog digital CiM accelerator'
-date: 20-04-2024
+date: 2024-04-20
 venue: 'under review'
 paperurl: 'https://arxiv.org/abs/2403.13577'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
