@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is on Neural Network and IMC accelerator architecture co-design.'
 date: 2022-06-20
-venue: 'DAC 2022'
+venue: 'DAC'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3489517.3530476'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
