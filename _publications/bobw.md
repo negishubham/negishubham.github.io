@@ -3,8 +3,8 @@ title: "Best of both worlds: hybrid SNN-ANN architecture for event-based optical
 collection: publications
 permalink: /publication/bobw
 excerpt: 'This paper proposes a hybrid SNN-ANN model to efficiently process the sparse spatio-temporal data from event-based camera '
-date: 2024-04-20
-venue: 'IROS 2024'
+date: 2024-06-20
+venue: 'IROS'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802844'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
