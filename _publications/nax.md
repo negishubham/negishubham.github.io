@@ -1,7 +1,7 @@
 ---
 title: "NAX: Neural Architecture and Memristive Xbar based Accelerator Co-design"
 collection: publications
-permalink: /publication/nax
+permalink: /publications/nax
 excerpt: 'This paper is on Neural Network and IMC accelerator architecture co-design.'
 date: 2022-06-20
 venue: 'DAC'
