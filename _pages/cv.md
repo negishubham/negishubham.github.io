@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Summer,Fall 2024: Machine Learning Computer Architect
+  * d-Matrix 
+  * Focused on building an analytical performance simulator for dataflow optimization of compuound operations in LLMs. 
+  * Mentors: Aayush Ankit, Manik Singhal
+
 * Summer 2022: Systems Engineering Intern
   * Texas Instruments (Kilby Labs)
   * Focused on developing hardware-aware quantization and NAS frameworks
