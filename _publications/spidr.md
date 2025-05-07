@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/spidr
 excerpt: 'This paper proposes a digital compute in memory accelerator for SNNs'
 date: 2024-07-20
-venue: 'DAC'
+venue: 'under review'
 paperurl: 'https://arxiv.org/pdf/2411.02854'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
